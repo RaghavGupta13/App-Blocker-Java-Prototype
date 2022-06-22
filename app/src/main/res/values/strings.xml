@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BlockerJavaPrototype</string>
+
+    <!-- Lock Screen Text -->
+    <string name="lock_screen_text">This app is blocked:(</string>
+</resources>
